@@ -1,0 +1,110 @@
+[
+    {
+        "id":1,
+        "ref":"MSGD3345",
+        "nom":"Samsung Galaxy A10",
+        "img":"https://images.frandroid.com/wp-content/uploads/2019/04/samsung-galaxy-a10-frandroid-2019-png.png",
+        "prix":148,
+        "promotion":true,
+        "prix_promo":135,
+        "details":"Le Samsung Galaxy A10 est un smartphone d'entrée de gamme annoncé en mars 2019,  Le Samsung Galaxy A10 est un smartphone d'entrée de gamme annoncé en mars 2019",
+        "categorie":1,
+        "stock": 23
+    },
+    {
+        "id":2,
+        "ref":"MSGD3346",
+        "nom":"Samsung Galaxy A30",
+        "img":"https://images.frandroid.com/wp-content/uploads/2019/04/samsung-galaxy-a30-frandroid-2019-packshot.png",
+        "prix":188,
+        "promotion":true,
+        "prix_promo":170,
+        "details":"Le Samsung Galaxy A30 a été officialisé en février 2019. Il propose un grand écran de 6,4 pouces Super AMOLED, l'Exynos 7904 et un capteur d'empreintes digitales à l'arrière",
+        "categorie":1,
+        "stock": 34
+    },
+    {
+        "id":3,
+        "ref":"P610NZAAXEF",
+        "nom":"Galaxy Tab S6 Lite",
+        "img":"https://images.samsung.com/is/image/samsung/fr-galaxy-tab-s6-lite-p610-sm-p610nzaaxef-frontgray-thumb-234657866?$PF_PRD_PNG$",
+        "prix":399,
+        "promotion":false,
+        "prix_promo":0,
+        "details":"Design fin et finition en aluminum,S Pen amélioré pour une expérience plus ergonomique,Écran panoramique 10,4,Mémoire embarquée 64Go",
+        "categorie":2,
+        "stock": 20
+    },
+    {
+        "id":4,
+        "ref":"T720NZSLXEF",
+        "nom":"Galaxy Tab S5e Wi-Fi",
+        "img":"https://images.samsung.com/is/image/samsung/fr-galaxy-tab-s5e-t720-sm-t720nzslxef-frontsilver-thumb-157716679?$PF_PRD_PNG$",
+        "prix":519,
+        "promotion":true,
+        "prix_promo":120,
+        "details":"Extrême finesse de 5,5 mm,Un écran très lumineux avec une large surface d'affichage immersive et colorée,Dolby Atmos 3D et son signature AKG avec stéréo adaptatif,Batterie de 7040 mAh avec partage d'énergie et charge rapide",
+        "categorie":2,
+        "stock": 23
+    },
+    {
+        "id":5,
+        "ref":"HAUYE4020",
+        "nom":"Huawei P40",
+        "img":"https://images.frandroid.com/wp-content/uploads/2020/03/huawei-p40-frandroid-2020.png",
+        "prix":649,
+        "promotion":true,
+        "prix_promo":550,
+        "details":"Le Huawei P40 est un smartphone haut de gamme annoncé le 26 mars 2020. Il s'agit du premier smartphone de la gamme P à être compatible avec les réseaux 5G. Il est équipé d'un écran OLED de 6,1 pouces, d'un SoC Kirin 990 et d'un triplee capteur photo arrière polyvalent. Il est disponible en France sous Android 10 avec l'interface Emotion UI 10.1 sans les services Google, dont le Google Play Store",
+        "categorie":1,
+        "stock": 45
+    },
+    {
+        "id":6,
+        "ref":"LEV454ES2",
+        "nom":"Lenovo Moto G5",
+        "img":"https://images.frandroid.com/wp-content/uploads/2019/04/moto-g5.png",
+        "prix":106,
+        "promotion":false,
+        "prix_promo":0,
+        "details":"Le Moto G5 est un smartphone fabriqué par Lenovo. Annoncé au MWC il embarque un processeur Snapdragon 430 et est épaulé par 2 Go de RAM",
+        "categorie":1,
+        "stock": 15
+    },
+    {
+        "id":7,
+        "ref":"HGEK432T5",
+        "nom":"Huawei Y9 2019",
+        "img":"https://images.frandroid.com/wp-content/uploads/2019/04/moto-g5.png",
+        "prix":227,
+        "promotion":true,
+        "prix_promo":200,
+        "details":"Le Huawei Y9 2019 est un smartphone de milieu de gamme annoncé en janvier 2019. Il est équipé d'un écran de 6,5 pouces avec une définition Full HD+, d'un SoC Kirin 710 épaulé par 6 Go de RAM et d'un double capteur de 13+2 mégapixels",
+        "categorie":1,
+        "stock": 35
+    },
+    {
+        "id":8,
+        "ref":"LERS3454I",
+        "nom":"Apple iPad 2019 10.2",
+        "img":"https://images.frandroid.com/wp-content/uploads/2019/09/apple-ipad-2019-frandroid.png",
+        "prix":389,
+        "promotion":false,
+        "prix_promo":0,
+        "details":"L'iPad 10.2 pouces est une tablette annoncée par Apple le 10 septembre 2019. Première tablette à embarquer nativement ipadOS, elle propose une solution héritée de la lignée des tablettes d'Apple avec un nouvel écran de 10,2 pouces. Elle se place comme l'entrée de gamme de la gamme iPad en 2019",
+        "categorie":2,
+        "stock": 12
+    },
+    {
+        "id":9,
+        "ref":"HERSX3434S",
+        "nom":"Apple iPad Pro 11 2020",
+        "img":"https://images.frandroid.com/wp-content/uploads/2020/03/apple-ipad-pro-11-2020-frandroid-officiel.png",
+        "prix":899,
+        "promotion":true,
+        "prix_promo":850,
+        "details":"L'Apple iPad Pro 11 2020 a été annoncé le 18 mars 2020. Héritier du renouvellement de la gamme iPad Pro introduite avec l'iPad Pro 2018, il est reconnaissable avec son nouveau double capteur photo arrière. Il propose une amélioration globale des caractéristiques et introduit un nouveau Magic Keyboard avec un trackpad",
+        "categorie":2,
+        "stock": 26
+    }
+]

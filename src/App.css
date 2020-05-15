@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&family=Poiret+One&display=swap');
+
+body {
+  font-family: 'Electrolize', sans-serif;
+}
+
+.boxProd{
+  float: left;
+  margin:0px !important;
+}
+.boxProdInterne{
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+  padding: 15px;
+  margin:10px !important;
+  display: block;
+  overflow: hidden;
+}
+
+.prix_public
+{
+  font-size: 12px;
+  color:red;
+  text-decoration: line-through;
+  font-weight: bold;
+}
+.prix_promo
+{
+  font-size: 25px;
+  color: green;
+  font-weight: bold;
+}
+.panier-container
+{
+  position: fixed;
+    background: #fff;
+    padding: 20px;
+    border: 1px #eee solid;
+    top: 56px;
+    width: 750px;
+    right: 0;
+    transition: all 0.5s;
+    z-index: 999;
+    opacity: 1;
+}
+.panierClose{
+  right:-750px;
+}
+.btn-panier:hover .panier-container
+{
+display: block;
+}
+.btn-panier{
+  color:#000;
+  background-color: transparent;
+  border: none;
+}
+.badge-secondary{
+  color:red;
+}
+.liens-categorie ,.liens-categorie:hover{
+  margin:5px;
+  text-decoration: none;
+  color:#FFF !important;
+  background-color: #000;
+  padding: 10px;
+  border-radius: 5px;
+}
+.box-qty{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin:10px;
+}
+.qty-field{
+  width: 30px;
+  text-align: center;
+}
+.fa.fa-shopping-bag
+{
+  font-size: 27px;
+}
+.badge.badge-secondary
+{
+  background-color:red;
+  position: relative;
+  bottom: 20px;
+}
+.Close{
+  float: right;
+  text-decoration: none;
+  text-decoration: none;
+}
